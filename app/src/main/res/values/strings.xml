@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="cities_array">
+        <item>Prishtina</item>
+        <item>New York</item>
+        <item>Madrid</item>
+        <item>Berlin</item>
+        <item>London</item>
+        <item>Paris</item>
+    </string-array>
+</resources>
+
